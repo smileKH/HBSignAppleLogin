@@ -1,0 +1,6 @@
+framework module Pods_HBSignAppleLogin {
+  umbrella header "Pods-HBSignAppleLogin-umbrella.h"
+
+  export *
+  module * { export * }
+}
